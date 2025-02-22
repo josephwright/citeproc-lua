@@ -1,4 +1,7 @@
 ---@diagnostic disable
+-- This file is generated from the data in <https://github.com/JabRef/abbrv.jabref.org>
+-- under the CC0-1.0 license.
+
 abbrevs = {
   ["$k$-monographs in mathematics"] = "$K$-Monogr. Math.",
   ["(bulletin trimestriel de la) société de géographie et d’archéologie (de la province) d’oran"] = "SocGeoAOran",
